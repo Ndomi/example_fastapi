@@ -2,7 +2,6 @@ alembic==1.7.5
 ansible==4.7.0
 ansible-core==2.11.6
 anyio==3.4.0
-apturl==0.5.2
 asgiref==3.4.1
 attrs==21.2.0
 automium==0.2.6
