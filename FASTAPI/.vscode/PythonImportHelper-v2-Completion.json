@@ -589,14 +589,6 @@
         "documentation": {}
     },
     {
-        "label": "engine",
-        "importPath": "database",
-        "description": "database",
-        "isExtraImport": true,
-        "detail": "database",
-        "documentation": {}
-    },
-    {
         "label": "Base",
         "importPath": "database",
         "description": "database",
