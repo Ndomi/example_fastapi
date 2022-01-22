@@ -1,5 +1,5 @@
-from urllib import response
-import models, schema, utils
+# from urllib import response
+from . import models, schema
 from requests import Response
 from routers import oauth2
 from fastapi import status, HTTPException, Depends, APIRouter

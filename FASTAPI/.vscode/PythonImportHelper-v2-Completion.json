@@ -509,14 +509,6 @@
         "documentation": {}
     },
     {
-        "label": "response",
-        "importPath": "urllib",
-        "description": "urllib",
-        "isExtraImport": true,
-        "detail": "urllib",
-        "documentation": {}
-    },
-    {
         "label": "Response",
         "importPath": "requests",
         "description": "requests",
